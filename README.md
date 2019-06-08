@@ -1,7 +1,7 @@
-#Shapes animation
+# Shapes animation
 Animate different shapes, including circle, square, rectangle and ellipse, with gravity simulation and collision detection.
 
-##Features
+## Features
 - gradual change of color
 - gravity simulation with terminal velocity
 - collision detection and rebound effect
